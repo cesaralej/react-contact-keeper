@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://cesaralej:cesaralej@cluster0-cqlxy.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
